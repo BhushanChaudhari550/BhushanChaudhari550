@@ -1,0 +1,32 @@
+body {
+    background-color: darkkhaki;
+}
+
+#box {
+    background-color: firebrick;
+    text-align: center;
+    border: rgb(37, 17, 153) 5px solid;
+    height: 250px;
+    width: 400px;
+    margin: auto;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+#input {
+    width: 350px;
+    text-align: center;
+}
+
+#button {
+    margin: auto;
+    color: rgb(97, 87, 240);
+    font-size: medium;
+}
